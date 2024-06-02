@@ -1,4 +1,4 @@
-# DevDetective - CodeHelp
+# DevDetective
 
 DevDetective is a simple, customizable GitHub Profile Finder built with HTML, CSS, and JavaScript. It allows users to search for GitHub profiles by username and view detailed information about the users.
 
