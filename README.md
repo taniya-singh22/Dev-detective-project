@@ -23,6 +23,7 @@ DevDetective is a simple, customizable GitHub Profile Finder built with HTML, CS
 ## Demo
 
 You can view a live demo of the GitHub Profile Finder
+https://dev-detective-project-psi.vercel.app/
 
 ## Getting Started
 
